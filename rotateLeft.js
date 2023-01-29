@@ -27,3 +27,4 @@ function rotateLeft(arr, num) {
 }
 
 console.log(rotateLeft([1, 2, 3, 4, 5], 2));
+console.log(rotateLeft([1, 2, 3, 4, 5], 4));
